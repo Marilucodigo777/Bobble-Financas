@@ -72,3 +72,11 @@ Armazenamento local do Android
 ###Tela inicial
 
 ![Capa](screenshots/capa)
+
+![Home](screenchots/área_inicial_sem_registros1)
+
+![Home 02](screenchots/tela_inicial_sem_transações2)
+
+![Home03](screenchots/tela-inicial-com-valores)
+
+![Home 04](screenchots/
