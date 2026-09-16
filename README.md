@@ -67,3 +67,8 @@ SQLite
       ↓
 Armazenamento local do Android
 ```
+## Screenshots
+
+###Tela inicial
+
+![capa](screenshots/capa.png)
