@@ -71,4 +71,4 @@ Armazenamento local do Android
 
 ###Tela inicial
 
-![capa](screenshots/capa.png)
+![Capa](screenshots/capa)
