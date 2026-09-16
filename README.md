@@ -54,7 +54,7 @@ A proposta visual é transmitir organização, tranquilidade e clareza durante o
 
 A próxima etapa do projeto é evoluir a estrutura atual para uma arquitetura com separação entre interface, regras de negócio e armazenamento.
 
-## text
+```text
 Jetpack Compose
       ↓
 ViewModel
@@ -66,3 +66,4 @@ Room
 SQLite
       ↓
 Armazenamento local do Android
+```
