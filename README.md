@@ -77,6 +77,54 @@ Armazenamento local do Android
 
 ![Home 02](screenshots/tela_inicial_sem_transações2)
 
-![Home03](screenshots/tela-inicial-com-valores)
+![Home03](screenshots/tela%20inicial%20com%20valores)
+
+![Home04](screenshots/gr%C3%A1fico%20na%20tela%20inicial%2002)
+
+![Home05](screenshots/gr%C3%A1fico%20na%20tela%20inicial%20com%20valores)
+
+![Movimentações recentes na home](screenshot/movimenta%C3%A7%C3%B5es%20recentes%20na%20tela%20inicial)
+
+### Nova Receita
+
+![Nova Receita](screenshot/Nova%20Receita)
+
+### Nova Despesa
+
+![Nova Despesa](screenshot/nova_despesa)
+
+![Catégorias de despesa](screenshot/tela%20de%20nova%20despesa%20com%20cat%C3%A9gorias)
 
 
+### Envelopes
+
+![Tela principal](screenshot/tela%20principal%20de%20envelopes)
+
+![Criação de envelope](screenshot/tela%20de%20cria%C3%A7%C3%A3o%20de%20envelopes)
+
+![Tela de envelope criado](screenshot/tela%20de%20envelope%20criado%20sem%20valor)
+
+![Tela de envelope criado e com valor adicionado](screenshot/tela%20de%20envelope%20criado%2C%20com%20valor%20adicionado%20e%20porcentagem%20atualizada)
+
+### Histórico
+
+![Tela inicial de histórico](screenshot/tela%20principal%20do%20hist%C3%B3rico)
+
+![Filtro de data](screenshot/tela%20de%20hist%C3%B3rico%20com%20filtro%20de%20data)
+
+![Filtro 02](screenshot/filtro%20por%20data%20no%20hist%C3%B3rico%2002)
+
+![Filtro por catégoria](screenshot/filtro%20por%20cat%C3%A9goria%20no%20hist%C3%B3rico)
+
+
+### Divídas 
+
+![Tela de divídas](screenshot/tela%20de%20div%C3%ADdas%20sem%20valor)
+
+![Tela de estratégias de divídas](screenshot/tela%20de%20estrat%C3%A9gias%20na%20tela%20de%20d%C3%ADvidas)
+
+![Tela de divída criada](screenshot/tela%20de%20div%C3%ADdas%20adicionada%20com%20valor)
+
+![Tela com divída paga adicionada](screenshot/tela%20de%20d%C3%ADvidas%20com%20parcela%20paga%20adicionada)
+
+![Tela com divída quitada](screenshot/tela%20de%20div%C3%ADda%20com%20div%C3%ADda%20quitada)
